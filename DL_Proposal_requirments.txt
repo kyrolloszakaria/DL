@@ -1,0 +1,14 @@
+1. Problem Statement with figures and plots 
+2. Input/Output examples with figures and plots 
+3. Evaluate this problem with metrics
+4. Results of the current literature addressing the problem. Metrics of the solution of the current models.
+5. Survey of Available and relible datasets
+6. A detailed description of the dataset. why will you use this particular dataset?
+-- The selected dataset shouldn't exceed 20 GB (but 15GB recommended) --
+7. 
+8. A detailed description of the model to be used to build on. why you will use this particular model?
+9. The source code URL for the selected baseline model.
+10. model weights and model zoo url
+11. evaluation metric - plots/graphs - comparison results 
+12. Cite everthing!
+13. Team members contribution
